@@ -74,6 +74,6 @@ app.post('/contact',(req,res)=>{
 })
 
 // start the server
-app.listen(3000, ()=>{
-    console.log(`the application started succesfully on port 3000`);
+app.listen(8000, ()=>{
+    console.log(`the application started succesfully on port 8000`);
 });
